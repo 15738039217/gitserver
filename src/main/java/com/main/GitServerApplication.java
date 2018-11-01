@@ -20,6 +20,10 @@ public class GitServerApplication {
 
 		System.out.print("第二个程序第二个程序第二个程序第二个程序第二个程序第二个程序BUG");
 	}
+	public static void BUG(){
+
+		System.out.print("BUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUG");
+	}
 
 	public static void text2(){
 		System.out.print("开发2.0");
