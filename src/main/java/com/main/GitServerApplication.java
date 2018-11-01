@@ -20,9 +20,9 @@ public class GitServerApplication {
 
 		System.out.print("第二个程序第二个程序第二个程序第二个程序第二个程序第二个程序BUG");
 	}
-	public static void BUG(){
+	public static void BUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUG(){
 
-		System.out.print("BUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUG");
+		System.out.print("BUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUG");
 	}
 
 	public static void text2(){
