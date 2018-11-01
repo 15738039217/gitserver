@@ -20,13 +20,16 @@ public class GitServerApplication {
 
 		System.out.print("第二个程序第二个程序第二个程序第二个程序第二个程序第二个程序BUG");
 	}
-	public static void BUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUG(){
+	public static void aaa(){
 
-		System.out.print("BUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUGBUG");
+		System.out.print("aaaaa");
 	}
 
 	public static void text2(){
 		System.out.print("开发2.0");
 	}
+
+
+	/////////////// 这是分支2。0的代码
 
 }
