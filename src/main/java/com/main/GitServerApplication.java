@@ -17,7 +17,8 @@ public class GitServerApplication {
 	}
 
 	public static void text1(){
-		System.out.print("第二个程序");
+
+		System.out.print("第二个程序第二个程序第二个程序第二个程序第二个程序第二个程序");
 	}
 
 	public static void text2(){
