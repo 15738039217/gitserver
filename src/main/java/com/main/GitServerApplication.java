@@ -17,9 +17,10 @@ public class GitServerApplication {
 	}
 
 	public static void text1(){
-
 		System.out.print("第二个程序");
 	}
-
+	public static void text2(){
+		System.out.print("开发2.0");
+	}
 
 }
