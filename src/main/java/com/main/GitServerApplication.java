@@ -16,4 +16,9 @@ public class GitServerApplication {
 		System.out.print("第一个程序");
 	}
 
+	public static void text1(){
+
+		System.out.print("第一个程序");
+	}
+
 }
